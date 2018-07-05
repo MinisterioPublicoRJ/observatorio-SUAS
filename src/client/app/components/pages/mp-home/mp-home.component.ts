@@ -84,7 +84,7 @@ export class MPHomeComponent {
       }
      
 
-      this.porcentagemCras = ((cras * 100) / 453).toFixed(2).concat('%');
+      this.porcentagemCras = ((cras * 100) / 442).toFixed(2).concat('%');
       this.porcentagemCreas = ((creas * 100) / 116).toFixed(2).concat('%');
       this.porcentagemCentroPop = ((centroPop * 100) / 19).toFixed(2).concat('%');
       console.log(this.porcentagemCras);

@@ -16,7 +16,7 @@
     "porte": "Grande",
     "nome": "CENTRO POP CASA DA GENTE",
     "tipoLogradouro": "Alameda",
-    "endereco": "Alameda vanzzi",
+    "endereco": "Alameda Vanazzi",
     "numero": 60,
     "complemento": "",
     "bairro": "Ano Bom",
@@ -26,14 +26,14 @@
   {
     "municipio": "Belford Roxo",
     "porte": "Grande",
-    "nome": "CREAS -CENTRO DE REFERENCIA ESPECIALIZADO EM POPULAÇÃO DE RUA",
+    "nome": "CENTRO POP-CENTRO D REFERÊNCIA ESPECIAL.P/POPULAÇÃO EM SITUA",
     "tipoLogradouro": "Estrada",
     "endereco": "Estrada Dr. Plínio Casado",
     "numero": 3968,
     "complemento": "loja 01",
     "bairro": "CENTRO",
     "cep": "26127-780",
-    "telefone": "(21) 2761-4088"
+    "telefone": "(21) 3662-5331"
   },
   {
     "municipio": "Campos dos Goytacazes",
@@ -45,7 +45,7 @@
     "complemento": "",
     "bairro": "Centro",
     "cep": "28035-042",
-    "telefone": "(22) 2726-4041"
+    "telefone": "(22) 98127-1427"
   },
   {
     "municipio": "Duque de Caxias",
@@ -92,7 +92,7 @@
     "numero": 99,
     "complemento": "",
     "bairro": "CENTRO",
-    "cep": "27947-090",
+    "cep": "27916-090",
     "telefone": "(22) 2796-1084"
   },
   {
@@ -159,25 +159,25 @@
     "municipio": "Rio de Janeiro",
     "porte": "Metrópole",
     "nome": "CENTRO POP BÁRBARA CALAZANS",
-    "tipoLogradouro": "Praça",
-    "endereco": "PIO X",
-    "numero": 119,
-    "complemento": "6 ANDAR",
+    "tipoLogradouro": "Rua",
+    "endereco": "DO SANTANA",
+    "numero": 204,
+    "complemento": "SOBRADO",
     "bairro": "Centro",
-    "cep": "20040-002",
+    "cep": "20230-261",
     "telefone": "(21) 96858-7736"
   },
   {
     "municipio": "Rio de Janeiro",
     "porte": "Metrópole",
     "nome": "CENTRO POP JOSÉ SARAMAGO",
-    "tipoLogradouro": "Rua",
-    "endereco": "CAPITÃO ALIATAR MARTINS",
-    "numero": 211,
-    "complemento": "TERREO",
-    "bairro": "IRAJÁ",
-    "cep": "21235-515",
-    "telefone": "(21) 2051-4118"
+    "tipoLogradouro": "Avenida",
+    "endereco": "SARGENTO DE MILICIAS",
+    "numero": 0,
+    "complemento": "",
+    "bairro": "PAVUNA",
+    "cep": "21532-290",
+    "telefone": "(21) 96863-8543"
   },
   {
     "municipio": "São Gonçalo",
@@ -213,7 +213,7 @@
     "complemento": "Loja R",
     "bairro": "Jardim Meriti",
     "cep": "25555-201",
-    "telefone": "(21) 2651-2696"
+    "telefone": "(21) 2699-0586"
   },
   {
     "municipio": "Volta Redonda",
